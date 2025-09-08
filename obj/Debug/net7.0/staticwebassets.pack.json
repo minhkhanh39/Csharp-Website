@@ -1,0 +1,1177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Web Template.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web Template.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\css\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\aos.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\aos.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\jquery.lineProgressbar.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\jquery.lineProgressbar.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\plugins\\venobox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\venobox.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\ionicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\ionicons.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\fonts\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\font-awesome\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\font-awesome\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\ionicon-fonts\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\ionicon-fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicon-fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\fonts\\simple-line-icon-fonts\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\fonts\\simple-line-icon-fonts\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\about\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\about\\img-about.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\img-about.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-1-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-1-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-10-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-10-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-11-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-11-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-11-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-11-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-12-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-12-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-13-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-13-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-2-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-2-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-2-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-2-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-2-img-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-3-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-3-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-4-img-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-4-img-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-5-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-5-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-5-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-5-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-6-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-6-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-7-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-7-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-7-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-7-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-8-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-8-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-8-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-8-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\banner-style-9-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner-style-9-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\menu-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\menu-banner.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\banner\\side-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\side-banner.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\blog-grid-home-1-img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-grid-home-1-img-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\blog\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-1.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-2.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-3.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-4.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-5.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-6.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-7.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\company-logo-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\company-logo-8.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\company-logo\\payment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\company-logo\\payment.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\emprt-cart\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\emprt-cart\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\emprt-cart\\empty-cart.png",
+      "PackagePath": "staticwebassets\\assets\\images\\emprt-cart\\empty-cart.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-1\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-1\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-1\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-1\\hero-slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-1\\hero-slider-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-2\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-2\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-2\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-2\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-2\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-2\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-3\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-3\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-3\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-3\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-3\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-3\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-4\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-4\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-4\\hero-slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-4\\hero-slider-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\hero-slider\\home-4\\hero-slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero-slider\\home-4\\hero-slider-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\bkg_grid.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\bkg_grid.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\bkg_list.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\bkg_list.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\icon_about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\icon_about2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\icon_about3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\icon_about4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\icon_about4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-1.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-2.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-3.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-4.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-5.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-6.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-7.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\service-promo-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\service-promo-8.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\icons\\top-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\top-arrow.svg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\instagram\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram\\instagram-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\logo\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\logo\\logo_black.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo_black.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\logo\\logo_white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo_white.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-10.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-11.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-12.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\default-9.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-1\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-1\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-10.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-11.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-12.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-13.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-14.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-15.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-16.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-17.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-18.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\default-9.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-2\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-2\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-10.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-11.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\default-9.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-3\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-3\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-1.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-10.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-11.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-2.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-3.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-4.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-5.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-6.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-7.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-8.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\default-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\default-9.jpg"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\default\\home-4\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\default\\home-4\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\product\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\team\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\team\\leader1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader1.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\team\\leader2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader2.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\team\\leader3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader3.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\team\\leader4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\leader4.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\user\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\user\\image-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-1.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\user\\image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-2.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\images\\user\\image-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\image-3.png"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\js\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\aos.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\aos.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\jquery.instagramFeed.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.instagramFeed.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\jquery.lineProgressbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.lineProgressbar.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.waypoints.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\material-scrolltop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\material-scrolltop.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\plugins.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\plugins.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\plugins\\venobox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\venobox.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\desktop.ini",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\desktop.ini"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\jquery-3.5.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.5.1.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.0.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Lập Trình Web\\Web Template\\Web Template\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Web Template.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Web Template.props",
+      "PackagePath": "build\\Web Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Web Template.props",
+      "PackagePath": "buildMultiTargeting\\Web Template.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Web Template.props",
+      "PackagePath": "buildTransitive\\Web Template.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
